@@ -1,0 +1,17 @@
+/* Viewport dimension Viewer */
+
+.statusHeight{
+    position: fixed;
+    margin-left: auto;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.432);
+    color: aliceblue;
+}
+.statusWidth{
+    margin-top: 50px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.432);
+    color: aliceblue;
+}
